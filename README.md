@@ -29,7 +29,7 @@ The system comprises the following main components:
   - **Engagement with Guests**: Track and engage every guest entering the lab.
   - **Metric**: Number of guests greeted, average conversation duration.
 
-  -**Guest Satisfaction**: Achieve high levels of satisfaction through interactive features.
+  - **Guest Satisfaction**: Achieve high levels of satisfaction through interactive features.
   - **Metric**: Positive feedback percentage, average guest rating.
 
 
